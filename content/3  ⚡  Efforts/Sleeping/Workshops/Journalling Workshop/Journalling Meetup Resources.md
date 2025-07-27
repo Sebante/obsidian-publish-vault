@@ -28,8 +28,8 @@ ____________________________________
 ____________________________________
 #### Common forms of Journalling:
 
-- [Reflective](..\..\..\..\1--🌐--Atlas\Dots\Concepts\Reflection.md)
-- [Stream of consciousness](..\..\..\..\1--🌐--Atlas\Dots\Concepts\Stream-of-Consciousness-Journalling.md)
+- [Reflective](1--🌐--atlas/dots/concepts/reflection)
+- [Stream of consciousness](1--🌐--atlas/dots/concepts/stream-of-consciousness-journalling)
 - Gratitude
 - Affirmation
 - Guided prompts
