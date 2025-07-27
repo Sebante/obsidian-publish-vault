@@ -39,7 +39,7 @@ Tips:
 
 Be fully present of all five senses for ~10 minutes, while moving through the world, performing tasks and interacting with people; without becoming distracted by thoughts or losing connection with your senses.
 
-The above feels akin to being in [[Flow]] state.
+The above feels akin to being in Flow state.
 
 Tips:
 - Try to arrive in this state immediately.

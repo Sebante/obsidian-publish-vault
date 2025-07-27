@@ -3,18 +3,18 @@ id: 20250627075945225-28711
 date: 2025-06-27
 visibility: public
 in:
-  - "[[Concepts]]"
+  - "Concepts"
 slug: 1--🌐--atlas/dots/concepts/eightfold-path
 ---
 ___
 
-*The path to [[Enlightenment]] and the cessation of suffering.*
+*The path to Enlightenment and the cessation of suffering.*
 
 ___
 
-The Eightfold Path is the fourth truth of the [[Four Noble Truths]].
+The Eightfold Path is the fourth truth of the Four Noble Truths.
 
-It can be divided into three main categories: [[Wisdom]], [[Ethical Conduct]] and [[Mental Discipline]].
+It can be divided into three main categories: Wisdom, Ethical Conduct and Mental Discipline.
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 - Commitment to ethical and mental self-improvement.
 
-- Intentions of [[Renunciation]], goodwill, and harmlessness.
+- Intentions of Renunciation, goodwill, and harmlessness.
 
 
 ---

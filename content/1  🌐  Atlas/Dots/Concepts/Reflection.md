@@ -2,7 +2,7 @@
 id: 20250618150018747-37559
 visibility: public
 in:
-  - "[[Concepts]]"
+  - "Concepts"
 slug: 1--🌐--atlas/dots/concepts/reflection
 ---
 ---

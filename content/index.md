@@ -10,7 +10,7 @@ It's a collection of personal notes linked together as a sort-of personal wiki. 
 
 Notes are generally **non-linear**, so you can jump around and follow whatever path interests you. Some hyperlinks exist without pages behind them. These are area's I plan to get to in the future. Maybe.
 
-I mostly tend to capture: *[reflections](/1--🌐--Atlas/Maps/Reflections)*, *[[concepts]]*, *[[quotes]]*, *[[ideas]]* and *[[efforts]]*. Click the links to follow the rabbit holes that interest you.
+I mostly tend to capture: *[reflections](/1--🌐--Atlas/Maps/Reflections)*, *concepts*, *quotes*, *ideas* and *efforts*. Click the links to follow the rabbit holes that interest you.
 
 Recently I started writing a [newsletter](/1--🌐--Atlas/Maps/Newsletters), that eventually I plan to share with a wider audience once I have a few more in the pipeline. It's still experimental so I expect I'll be switching up the style, pace and tone as I experiment.
 
