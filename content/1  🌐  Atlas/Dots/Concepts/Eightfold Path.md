@@ -22,17 +22,41 @@ ___
 
 ### 1. Right View (Wisdom)
 
-- Understanding the Four Noble Truths.
+- A deep understanding of the Four Noble Truths
+- The ability to distinguish wholesome roots Vs unwholesome roots of thought
+- Recognising our own perception as a reflection of ourselves, not as an absolute truth of reality.
+    - E.g if 10 people look at the same situation, there would be 10 different opinions and perspectives that form. Even if they overlap, there would be differences born from past memories and individual personalities.
 
-- Seeing the world and oneself clearly and as they truly are.
+- Looking into our own perceptions to identify afflictions of craving.
+    - Often our perspective of what makes us happy is the very thing keeping us from being happy.
+    - 28.07.25 - Reflection on what makes me happy
 
 ___
 
 ### 2. Right Intention (Wisdom)
 
-- Commitment to ethical and mental self-improvement.
+Commitment to ethical and mental self-improvement.
 
-- Intentions of Renunciation, goodwill, and harmlessness.
+
+1. Renunciation (freedom from craving)
+
+*Intention of turning the mind away from craving and attachment.*
+
+E.g: Choosing simplicity over consumerism; letting go of obsessive desires.
+
+
+2. Goodwill (freedom from ill-will)
+
+*Cultivating loving-kindness instead of anger or resentment.*
+
+E.g: Replacing thoughts of revenge with thoughts of goodwill.
+
+
+3. Harmlessness (freedom from cruelty)
+
+*Committing to compassion and harmlessness towards all beings.*
+
+E.g: Avoiding harmful speech or actions, even when provoked.
 
 
 ---
@@ -84,5 +108,4 @@ ___
 - Developing deep states of meditation (jhana).
 
 - Training the mind through focused attention.
-
 
