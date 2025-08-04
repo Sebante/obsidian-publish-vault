@@ -29,7 +29,6 @@ ___
 
 - Looking into our own perceptions to identify afflictions of craving.
     - Often our perspective of what makes us happy is the very thing keeping us from being happy.
-    - 28.07.25 - Reflection on what makes me happy
 
 ___
 

@@ -11,7 +11,7 @@ slug: 1--🌐--atlas/dots/concepts/reflection
 
 ---
 
-### Some areas of reflection:
+### Areas of reflection:
 
 1. Personal Experiences
 	Life events, milestones, relationships, or turning points.
