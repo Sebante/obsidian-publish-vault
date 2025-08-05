@@ -50,7 +50,7 @@ Thanks for checking this out.
 
 > [!note]+ Articles
 > 
-> - [Mindset](/1--🌐--Atlas/Maps/Mindset-Newsletter-MOC) 
+> - [Mindset](/1--🌐--Atlas/Maps/Mindset-Newsletters) 
 > - Lifestyle - *Coming soon*
 > - Finance  - *Coming later*
 > - Tech - *Coming later*

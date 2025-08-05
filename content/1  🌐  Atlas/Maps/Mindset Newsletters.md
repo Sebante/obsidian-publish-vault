@@ -2,7 +2,7 @@
 id: 20250804111824630-40282
 date: 2025-08-04
 visibility: public
-slug: 1--🌐--atlas/maps/mindset-newsletter-moc
+slug: 1--🌐--atlas/maps/mindset-newsletters
 ---
 ---
 
