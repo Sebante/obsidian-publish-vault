@@ -25,6 +25,15 @@ function boolToStringBool(b: boolean): string {
   return b ? "1" : "0"
 }
 
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { classNames } from "../util/lang"
+
+declare global {
+  interface Window {
+    giscusWidget?: HTMLDivElement
+  }
+}
+
 export default ((opts: Options) => {
   const Comments: QuartzComponent = ({ displayClass, fileData, cfg }: QuartzComponentProps) => {
     // check if comments should be displayed according to frontmatter
@@ -64,3 +73,4 @@ export default ((opts: Options) => {
 
   return Comments
 }) satisfies QuartzComponentConstructor<Options>
+

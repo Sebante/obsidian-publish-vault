@@ -20,7 +20,7 @@ export const sharedPageComponents: SharedLayout = {
       // from data-lang
       lang: 'en',
 	  darkTheme: 'dark',
-	  mapping: 'specific'
+	  mapping: 'url'
     }
   }),
   ],
