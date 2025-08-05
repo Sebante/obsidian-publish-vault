@@ -34,6 +34,9 @@ export default ((opts: Options) => {
     if (disableComment) {
       return <></>
     }
+	
+	const noteId = fileData.frontmatter?.id
+    if (!noteId) return null
 
     return (
       <div
@@ -43,6 +46,7 @@ export default ((opts: Options) => {
         data-category={opts.options.category}
         data-category-id={opts.options.categoryId}
         data-mapping={opts.options.mapping ?? "url"}
+		data-term={noteId}
         data-strict={boolToStringBool(opts.options.strict ?? true)}
         data-reactions-enabled={boolToStringBool(opts.options.reactionsEnabled ?? true)}
         data-input-position={opts.options.inputPosition ?? "bottom"}

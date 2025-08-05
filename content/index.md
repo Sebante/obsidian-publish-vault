@@ -17,7 +17,7 @@ A collection of notes linked together, known as a [Mind Garden](/1--🌐--Atlas/
 
 I'd love for you to read and comment on whatever resonates the most.
 
->*Join the conversation on any topic, or share your feedback and ideas for future content and the site as a whole. (Coming soon)*
+>*Join The Conversation on any topic, or share your feedback and ideas for future content and the site as a whole.*
 
 Thanks for checking this out.
 
