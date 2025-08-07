@@ -7,7 +7,7 @@ slug: 3--⚡--efforts/ongoing/community-&-land/buying-land-&-building-a-communit
 ---
 ---
 
-*This document is a **notice of intent** and a **request for collaboration** for **buying land and building a community** together.*
+*This document is a **request for collaboration** for **buying land and building a community** together in Portugal.*
 
 *It is **not** a full specification or project plan.*
 
@@ -16,13 +16,13 @@ slug: 3--⚡--efforts/ongoing/community-&-land/buying-land-&-building-a-communit
 
 I'm looking to buy land with other investors, for the purpose of building a robust "home base" in the countryside of Portugal, with elements of community and private wilderness living.
 
-I would like to divide the total plot privately between us, with a mixture of shared land and private  land, my own having at least a home, or a pathway to constructing one.
+I would like to divide the total plot privately between us, with a mixture of shared land and private land, my own having at least a home, or a pathway to constructing one.
 
 The land should have good access to water, ideally bordering a river, and be private enough from neighbours and other traffic.
 
 Smart redundant infrastructure can be planned and shared together, to maximise resources, time and energy.
 
-Fun dreamy infrastructure can be suggested after our basic needs have been met. A community gym & spa comes to mind personally..
+Fun dreamy infrastructure can be suggested after our basic needs have been met. A community gym & spa comes to mind personally :)
 
 ---
 
@@ -42,7 +42,7 @@ It is about building a strong foundation for a community, which could stretch ge
 
 >***Initial investors bare the most risk***
 > 
->*There are many risks in such a project, so we should do our best to detail and understand them before making formal commitments.*
+>*There are many risks in such a project, so we should do our best to seek advice and understand them before making formal commitments.*
 
 ---
 

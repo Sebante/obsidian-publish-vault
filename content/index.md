@@ -17,7 +17,7 @@ A collection of notes linked together, known as a [Mind Garden](/1--🌐--Atlas/
 
 I'd love for you to read and comment on whatever resonates the most.
 
->*Join The Conversation on any topic, or share your feedback and ideas for future content and the site as a whole.*
+>*Join the conversation on any topic, or share your feedback and ideas for future content and the site as a whole, [here.](/3--⚡--Efforts/On/Website/Site-Adaptation-Ideas)*
 
 Thanks for checking this out.
 
@@ -58,6 +58,7 @@ Thanks for checking this out.
 
 > [!tip]+ Projects
 > 
+> - [Site Adaptation Ideas](/3--⚡--Efforts/On/Website/Site-Adaptation-Ideas)
 > - [Buying Land & Building a Community In Portugal](/3--⚡--Efforts/Ongoing/Community-&-Land/Buying-Land-&-Building-a-Community-In-Portugal)
 
 
@@ -69,3 +70,5 @@ Thanks for checking this out.
 > - Join the conversation by leaving comments, reactions and tipping using NOSTR
 > - Email subscription to receive a weekly roundup of new content
 > - Content filtering by tags
+> 
+> *Check [Site Adaptation Ideas](/3--⚡--Efforts/On/Website/Site-Adaptation-Ideas) to contribute ideas to the evolution of this site*
