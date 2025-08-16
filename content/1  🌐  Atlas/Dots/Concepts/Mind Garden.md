@@ -8,8 +8,6 @@ visibilityPotential: "false"
 rank: 1
 slug: 1--🌐--atlas/dots/concepts/mind-garden
 ---
-## ChatGPT:
-
 ---
 
 A *Mind Garden* is a personal, evolving digital space where ideas, notes, and knowledge are cultivated over time rather than published as fixed, finished pieces.

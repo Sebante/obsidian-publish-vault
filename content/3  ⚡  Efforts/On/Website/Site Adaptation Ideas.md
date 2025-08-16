@@ -20,7 +20,7 @@ slug: 3--⚡--efforts/on/website/site-adaptation-ideas
 
 ### Site Adaptation Ideas
 
-1. [Exclusive shared journal between friends](/3--⚡--Efforts/On/Website/Site-Adaptation-Ideas-Folder/Exclusive-shared-journal-between-friends) (Serious)
+1. [Encrypted Social Mind Garden](/3--⚡--Efforts/On/Website/Site-Adaptation-Ideas-Folder/Encrypted-Social-Mind-Garden) (Serious)
 2. [Friends Project Notice Board](/3--⚡--Efforts/On/Website/Site-Adaptation-Ideas-Folder/Friends-Project-Notice-Board) (Serious)
 3. [Private friends social media forum](/3--⚡--Efforts/On/Website/Site-Adaptation-Ideas-Folder/Private-friends-social-media-forum) (Silly
 4. [Work & Art showcase for friends](/3--⚡--Efforts/On/Website/Site-Adaptation-Ideas-Folder/Work-&-Art-showcase-for-friends) (Silly & Serious)

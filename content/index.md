@@ -58,6 +58,7 @@ Thanks for checking this out.
 
 > [!tip]+ Projects
 > 
+> - [Encrypted Social Mind Garden](/3--⚡--Efforts/On/Website/Site-Adaptation-Ideas-Folder/Encrypted-Social-Mind-Garden) <font color="#00b050">(New)</font>
 > - [Site Adaptation Ideas](/3--⚡--Efforts/On/Website/Site-Adaptation-Ideas)
 > - [Buying Land & Building a Community In Portugal](/3--⚡--Efforts/Ongoing/Community-&-Land/Buying-Land-&-Building-a-Community-In-Portugal)
 
@@ -67,8 +68,8 @@ Thanks for checking this out.
 
 > [!example]+ Upcoming Site Upgrades
 > 
-> - Join the conversation by leaving comments, reactions and tipping using NOSTR
 > - Email subscription to receive a weekly roundup of new content
+> - Join the conversation by leaving comments, reactions and tipping using NOSTR 
 > - Content filtering by tags
 > 
 > *Check [Site Adaptation Ideas](/3--⚡--Efforts/On/Website/Site-Adaptation-Ideas) to contribute ideas to the evolution of this site*
